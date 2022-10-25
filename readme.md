@@ -1,6 +1,5 @@
 
-### :zap: I am albrechtcolia :zap:
-
+### <div align="center">:zap: I'm albrechtcolia :zap:</div>
 ![gitartwork](gitartwork.svg)
 
 Hey there!
