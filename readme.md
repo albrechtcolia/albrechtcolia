@@ -1,7 +1,6 @@
 
 ### :zap: I am albrechtcolia :zap:
 
-[![albrechtcolia/gitartwork](https://github.com/albrechtcolia/albrechtcolia/blob/imgbot/gitartwork.svg)](https://github.com/albrechtcolia/gitartwork/)
 ![gitartwork](gitartwork.svg)
 
 Hey there!
