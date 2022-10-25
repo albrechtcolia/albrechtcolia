@@ -2,7 +2,7 @@
 ### <div align="center">:zap: I'm albrechtcolia :zap:</div>
 ![gitartwork](gitartwork.svg)
 
-Hey there!
+**Hey there!**
 
 - :blue_heart: I’m an aspiring developer interested in technology and arts.
 - :bulb: I’m interested in solving Problems
