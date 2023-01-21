@@ -5,7 +5,7 @@
 **Hey there!**
 
 - :blue_heart: I’m an aspiring developer interested in technology and arts.
-- :bulb: I’m interested in solving Problems
+- :bulb: I’m interested in solving Problems.
 - :seedling: I'm currently dedicated to improving my programming skills.
 
 <p align="center">
